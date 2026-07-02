@@ -18,7 +18,6 @@ java -cp . src.RadioButtonDemo
 ```
 
 Notes:
-- Ensure the `pets/` folder (with bird.png, cat.png, dog.png, rabbit.png, pig.png) is in the project root so the images load correctly.
 - The program uses relative paths for images (`pets/<name>.png`).
 
 Screenshots
@@ -44,5 +43,3 @@ Below are the first 10 screenshots (place your images in the `Screenshots/` fold
 ![Screenshot 9](Screenshots/screenshot9.png)
 
 ![Screenshot 10](Screenshots/screenshot10.png)
-
-You can rename your actual screenshot files to match the names above or update these links accordingly.
